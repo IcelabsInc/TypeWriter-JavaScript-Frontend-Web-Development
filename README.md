@@ -2,10 +2,10 @@
 The **TypeWriter JavaScript class** is designed to create engaging and dynamic text animations that mimic the effect of a typewriter. This class simplifies the process of animating multiple text strings simultaneously, allowing developers to enhance their web applications with visually appealing text transitions.
 
 ## Preview 🌟
-
+https://icelabsinc.github.io/TypeWriter-JavaScript-Frontend-Web-Development/
 
 ## Download ⬇️
-[Download the TypeWriter.js]()
+[Download the TypeWriter.js](https://icelabsinc.github.io/TypeWriter-JavaScript-Frontend-Web-Development/typewriter.js)
 
 
 ## Usage ⚙️
