@@ -5,7 +5,7 @@ The **TypeWriter JavaScript class** is designed to create engaging and dynamic t
 https://icelabsinc.github.io/TypeWriter-JavaScript-Frontend-Web-Development/
 
 ## Download ⬇️
-[Download the TypeWriter.js](https://icelabsinc.github.io/TypeWriter-JavaScript-Frontend-Web-Development/typewriter.js)
+https://icelabsinc.github.io/TypeWriter-JavaScript-Frontend-Web-Development/typewriter.js
 
 
 ## Usage ⚙️
